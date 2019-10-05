@@ -1,1 +1,1 @@
-"# Outpass-Verifier---React-Native" 
+# Outpass-Verifier - React Native
